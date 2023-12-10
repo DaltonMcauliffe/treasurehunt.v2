@@ -1,0 +1,18 @@
+h1 {
+  text-align: center;
+}
+
+.square {
+  border: 1px solid black;
+  height: 200px;
+  width: 200px;
+  font-size: 150px;
+  text-align: center;
+}
+
+.board {
+  display: flex;
+  flex-wrap: wrap;
+  width:610px;
+  margin:0 auto;
+}
